@@ -1,0 +1,853 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\absolut.jpg",
+      "PackagePath": "staticwebassets\\absolut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\absolut.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\absolut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\bacardi.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\bacardi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\baileys.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\baileys.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\bellini.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\bellini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\beluga.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\beluga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\belvedere.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\belvedere.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\bloody mary.jpeg",
+      "PackagePath": "staticwebassets\\alcohol img\\bloody mary.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\bombay saphire.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\bombay saphire.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\bushmills 10.jpeg",
+      "PackagePath": "staticwebassets\\alcohol img\\bushmills 10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\captain morgan.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\captain morgan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\chivas 12..jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\chivas 12..jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\chivas 12.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\chivas 12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\chivas 18.png",
+      "PackagePath": "staticwebassets\\alcohol img\\chivas 18.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\cointreau.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\cointreau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\corona.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\corona.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\dry martini.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\dry martini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\esspresso martini.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\esspresso martini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\exotini.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\exotini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\finlandia.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\finlandia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\glenfiddich 12.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\glenfiddich 12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\glenfidich 12.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\glenfidich 12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\glenmorange 10 years.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\glenmorange 10 years.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\grey goose.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\grey goose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\heineken.png",
+      "PackagePath": "staticwebassets\\alcohol img\\heineken.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\hendrick s.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\hendrick s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\henessy vs.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\henessy vs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\henessyyy xoo.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\henessyyy xoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\henesy vsop.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\henesy vsop.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\irish coffee.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\irish coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\jack daniels honeyy.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\jack daniels honeyy.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\jack daniels.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\jack daniels.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\jack deniels honey.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\jack deniels honey.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\jack honey.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\jack honey.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\jager.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\jager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\jameson.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\jameson.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\long island.jpeg",
+      "PackagePath": "staticwebassets\\alcohol img\\long island.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\mahhattan.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\mahhattan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\mai tai.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\mai tai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\malibu.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\malibu.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\malibuu.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\malibuu.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\mint julep.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\mint julep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\monkey-47.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\monkey-47.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\moscow mule.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\moscow mule.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\negroni.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\negroni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\old fashioned.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\old fashioned.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\olmeca.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\olmeca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\paulaner.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\paulaner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\pina colada.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\pina colada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\reposado olmeca.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\reposado olmeca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\russian standart.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\russian standart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\xirdalan.jpg",
+      "PackagePath": "staticwebassets\\alcohol img\\xirdalan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\yamazaki 12.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\yamazaki 12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\alcohol img\\yeni-raki.webp",
+      "PackagePath": "staticwebassets\\alcohol img\\yeni-raki.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\amerikano.webp",
+      "PackagePath": "staticwebassets\\amerikano.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\artist-skulptor.png",
+      "PackagePath": "staticwebassets\\artist-skulptor.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\artisttt.jpg",
+      "PackagePath": "staticwebassets\\artisttt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\bacardi.jpg",
+      "PackagePath": "staticwebassets\\bacardi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\baileys.webp",
+      "PackagePath": "staticwebassets\\baileys.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\bellini.jpg",
+      "PackagePath": "staticwebassets\\bellini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\beluga.jpg",
+      "PackagePath": "staticwebassets\\beluga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\belvedere.jpg",
+      "PackagePath": "staticwebassets\\belvedere.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\benedict.jpg",
+      "PackagePath": "staticwebassets\\benedict.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\benedictt.jpg",
+      "PackagePath": "staticwebassets\\benedictt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\black tea.webp",
+      "PackagePath": "staticwebassets\\black tea.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\bloody mary.jpeg",
+      "PackagePath": "staticwebassets\\bloody mary.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\bltsandwich.jpg",
+      "PackagePath": "staticwebassets\\bltsandwich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\boiledegg.jpg",
+      "PackagePath": "staticwebassets\\boiledegg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\bombay saphire.webp",
+      "PackagePath": "staticwebassets\\bombay saphire.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\breadbasket_120456736.jpg",
+      "PackagePath": "staticwebassets\\breadbasket_120456736.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\benedict.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\benedict.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\boiledegg.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\boiledegg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\breadbasket_120456736.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\breadbasket_120456736.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\butter.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\butter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\cheese.webp",
+      "PackagePath": "staticwebassets\\brekfast img\\cheese.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\coldcut.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\coldcut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\cucumber.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\cucumber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\feseli.jpeg",
+      "PackagePath": "staticwebassets\\brekfast img\\feseli.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\figjam.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\figjam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\firni.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\firni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\grilled-mushrooms.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\grilled-mushrooms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\kuku-sabzi-iran.webp",
+      "PackagePath": "staticwebassets\\brekfast img\\kuku-sabzi-iran.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\oatmealporridge.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\oatmealporridge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\olivies.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\olivies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\omelete.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\omelete.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\pancake.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\pancake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\qaymaq.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\qaymaq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\saksuka.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\saksuka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\scrambled-eggs-e1488327364180.webp",
+      "PackagePath": "staticwebassets\\brekfast img\\scrambled-eggs-e1488327364180.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\sousage.webp",
+      "PackagePath": "staticwebassets\\brekfast img\\sousage.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\sunny-side-up-eggs-4797347-4-0fc4a0d28c094599b12dedce7d303263.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\sunny-side-up-eggs-4797347-4-0fc4a0d28c094599b12dedce7d303263.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\tomato.jpg",
+      "PackagePath": "staticwebassets\\brekfast img\\tomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\brekfast img\\waffle.webp",
+      "PackagePath": "staticwebassets\\brekfast img\\waffle.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\bushmills 10.jpeg",
+      "PackagePath": "staticwebassets\\bushmills 10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\butter.jpg",
+      "PackagePath": "staticwebassets\\butter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\caesar salad.jpg",
+      "PackagePath": "staticwebassets\\caesar salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\captain morgan.jpg",
+      "PackagePath": "staticwebassets\\captain morgan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\capuchino.jpg",
+      "PackagePath": "staticwebassets\\capuchino.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\cheese.webp",
+      "PackagePath": "staticwebassets\\cheese.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\chivas 12..jpg",
+      "PackagePath": "staticwebassets\\chivas 12..jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\chivas 12.webp",
+      "PackagePath": "staticwebassets\\chivas 12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\chivas 18.png",
+      "PackagePath": "staticwebassets\\chivas 18.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\coban salad.jpg",
+      "PackagePath": "staticwebassets\\coban salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\coca-cola.jpg",
+      "PackagePath": "staticwebassets\\coca-cola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\cointreau.jpg",
+      "PackagePath": "staticwebassets\\cointreau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\coldcut.jpg",
+      "PackagePath": "staticwebassets\\coldcut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\corona.webp",
+      "PackagePath": "staticwebassets\\corona.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\cucumber.jpg",
+      "PackagePath": "staticwebassets\\cucumber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\dry martini.jpg",
+      "PackagePath": "staticwebassets\\dry martini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\espresso.webp",
+      "PackagePath": "staticwebassets\\espresso.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\esspresso martini.jpg",
+      "PackagePath": "staticwebassets\\esspresso martini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\exotini.jpg",
+      "PackagePath": "staticwebassets\\exotini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\feseli.jpeg",
+      "PackagePath": "staticwebassets\\feseli.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\figjam.jpg",
+      "PackagePath": "staticwebassets\\figjam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\finlandia.jpg",
+      "PackagePath": "staticwebassets\\finlandia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\firni.jpg",
+      "PackagePath": "staticwebassets\\firni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\ginger tea.webp",
+      "PackagePath": "staticwebassets\\ginger tea.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\glenfiddich 12.webp",
+      "PackagePath": "staticwebassets\\glenfiddich 12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\glenfidich 12.jpg",
+      "PackagePath": "staticwebassets\\glenfidich 12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\glenmorange 10 years.jpg",
+      "PackagePath": "staticwebassets\\glenmorange 10 years.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\gpe0bvh5.png",
+      "PackagePath": "staticwebassets\\gpe0bvh5.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\greek salad.jpg",
+      "PackagePath": "staticwebassets\\greek salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\green tea.webp",
+      "PackagePath": "staticwebassets\\green tea.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\grey goose.jpg",
+      "PackagePath": "staticwebassets\\grey goose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\grilled-mushrooms.jpg",
+      "PackagePath": "staticwebassets\\grilled-mushrooms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\hasbrown.webp",
+      "PackagePath": "staticwebassets\\hasbrown.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\heineken.png",
+      "PackagePath": "staticwebassets\\heineken.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\hendrick s.jpg",
+      "PackagePath": "staticwebassets\\hendrick s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\henessy vs.jpg",
+      "PackagePath": "staticwebassets\\henessy vs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\henessyyy xoo.jpg",
+      "PackagePath": "staticwebassets\\henessyyy xoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\henesy vsop.webp",
+      "PackagePath": "staticwebassets\\henesy vsop.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\0tb1p5xa.webp",
+      "PackagePath": "staticwebassets\\image\\0tb1p5xa.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\1cdbmllz.jpg",
+      "PackagePath": "staticwebassets\\image\\1cdbmllz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\22ikbizm.jpg",
+      "PackagePath": "staticwebassets\\image\\22ikbizm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\3i4ag0mp.webp",
+      "PackagePath": "staticwebassets\\image\\3i4ag0mp.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\azkmux43.jpg",
+      "PackagePath": "staticwebassets\\image\\azkmux43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\cgkugxsj.webp",
+      "PackagePath": "staticwebassets\\image\\cgkugxsj.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\cw4av0wj.webp",
+      "PackagePath": "staticwebassets\\image\\cw4av0wj.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\e0fo1m4c.webp",
+      "PackagePath": "staticwebassets\\image\\e0fo1m4c.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\fctelgkw.jpg",
+      "PackagePath": "staticwebassets\\image\\fctelgkw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\fgybdsri.jpg",
+      "PackagePath": "staticwebassets\\image\\fgybdsri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\h2ubqw0q.webp",
+      "PackagePath": "staticwebassets\\image\\h2ubqw0q.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\hlzyic40.jpeg",
+      "PackagePath": "staticwebassets\\image\\hlzyic40.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\jrtyqgun.jpg",
+      "PackagePath": "staticwebassets\\image\\jrtyqgun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\l5mtkr5w.jpg",
+      "PackagePath": "staticwebassets\\image\\l5mtkr5w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\nr42p4gm.webp",
+      "PackagePath": "staticwebassets\\image\\nr42p4gm.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\opm1swqm.webp",
+      "PackagePath": "staticwebassets\\image\\opm1swqm.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\pgr50pvb.jpg",
+      "PackagePath": "staticwebassets\\image\\pgr50pvb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\ry5dralx.jpg",
+      "PackagePath": "staticwebassets\\image\\ry5dralx.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\ucjzbmnr.jpg",
+      "PackagePath": "staticwebassets\\image\\ucjzbmnr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\urbzrfoa.webp",
+      "PackagePath": "staticwebassets\\image\\urbzrfoa.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\vr4xoloy.jpg",
+      "PackagePath": "staticwebassets\\image\\vr4xoloy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\xnt5akkf.webp",
+      "PackagePath": "staticwebassets\\image\\xnt5akkf.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\image\\ylbf0ckn.jpg",
+      "PackagePath": "staticwebassets\\image\\ylbf0ckn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\irish coffee.jpg",
+      "PackagePath": "staticwebassets\\irish coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\jack daniels honeyy.webp",
+      "PackagePath": "staticwebassets\\jack daniels honeyy.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\jack daniels.webp",
+      "PackagePath": "staticwebassets\\jack daniels.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\jack deniels honey.webp",
+      "PackagePath": "staticwebassets\\jack deniels honey.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\jack honey.webp",
+      "PackagePath": "staticwebassets\\jack honey.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\jager.jpg",
+      "PackagePath": "staticwebassets\\jager.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\jameson.webp",
+      "PackagePath": "staticwebassets\\jameson.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\jasmine tea.webp",
+      "PackagePath": "staticwebassets\\jasmine tea.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\kadaif.jpg",
+      "PackagePath": "staticwebassets\\kadaif.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\kuku-sabzi-iran.webp",
+      "PackagePath": "staticwebassets\\kuku-sabzi-iran.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\kuku.jpg",
+      "PackagePath": "staticwebassets\\kuku.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\latte.jpg",
+      "PackagePath": "staticwebassets\\latte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\lfwrbswd.png",
+      "PackagePath": "staticwebassets\\lfwrbswd.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\long island.jpeg",
+      "PackagePath": "staticwebassets\\long island.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\mahhattan.jpg",
+      "PackagePath": "staticwebassets\\mahhattan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\mai tai.jpg",
+      "PackagePath": "staticwebassets\\mai tai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\malibu.webp",
+      "PackagePath": "staticwebassets\\malibu.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\malibuu.webp",
+      "PackagePath": "staticwebassets\\malibuu.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\mint julep.jpg",
+      "PackagePath": "staticwebassets\\mint julep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\monkey-47.webp",
+      "PackagePath": "staticwebassets\\monkey-47.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\moscow mule.jpg",
+      "PackagePath": "staticwebassets\\moscow mule.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\negroni.jpg",
+      "PackagePath": "staticwebassets\\negroni.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\oatmealporridge.jpg",
+      "PackagePath": "staticwebassets\\oatmealporridge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\old fashioned.webp",
+      "PackagePath": "staticwebassets\\old fashioned.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\olivies.jpg",
+      "PackagePath": "staticwebassets\\olivies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\olmeca.jpg",
+      "PackagePath": "staticwebassets\\olmeca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\omelete.jpg",
+      "PackagePath": "staticwebassets\\omelete.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\ovbdifyv.webp",
+      "PackagePath": "staticwebassets\\ovbdifyv.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\pancake.jpg",
+      "PackagePath": "staticwebassets\\pancake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\paulaner.jpg",
+      "PackagePath": "staticwebassets\\paulaner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\pina colada.jpg",
+      "PackagePath": "staticwebassets\\pina colada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\qaymaq.jpg",
+      "PackagePath": "staticwebassets\\qaymaq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\red lentil.jpg",
+      "PackagePath": "staticwebassets\\red lentil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\red lentil2.webp",
+      "PackagePath": "staticwebassets\\red lentil2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\reposado olmeca.jpg",
+      "PackagePath": "staticwebassets\\reposado olmeca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\restoran.png",
+      "PackagePath": "staticwebassets\\restoran.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\russian standart.jpg",
+      "PackagePath": "staticwebassets\\russian standart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\saksuka.jpg",
+      "PackagePath": "staticwebassets\\saksuka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\salmon.jpg",
+      "PackagePath": "staticwebassets\\salmon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\sattart.png",
+      "PackagePath": "staticwebassets\\sattart.png"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\scrambled-eggs-e1488327364180.webp",
+      "PackagePath": "staticwebassets\\scrambled-eggs-e1488327364180.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\smoked tomato soup.jpg",
+      "PackagePath": "staticwebassets\\smoked tomato soup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\sor.webp",
+      "PackagePath": "staticwebassets\\sor.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\sousage.webp",
+      "PackagePath": "staticwebassets\\sousage.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\spritz veneziano.avif",
+      "PackagePath": "staticwebassets\\spritz veneziano.avif"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\spritz veneziano111.jpeg",
+      "PackagePath": "staticwebassets\\spritz veneziano111.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\sunny-side-up-eggs-4797347-4-0fc4a0d28c094599b12dedce7d303263.jpg",
+      "PackagePath": "staticwebassets\\sunny-side-up-eggs-4797347-4-0fc4a0d28c094599b12dedce7d303263.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\tea.jpg",
+      "PackagePath": "staticwebassets\\tea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\tomato.jpg",
+      "PackagePath": "staticwebassets\\tomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\waffle.webp",
+      "PackagePath": "staticwebassets\\waffle.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\xirdalan.jpg",
+      "PackagePath": "staticwebassets\\xirdalan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\yamazaki 12.webp",
+      "PackagePath": "staticwebassets\\yamazaki 12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dzafa\\OneDrive\\Рабочий стол\\MVC\\Artist api1\\Artist api1\\wwwroot\\yeni-raki.webp",
+      "PackagePath": "staticwebassets\\yeni-raki.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Artist api1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Artist api1.props",
+      "PackagePath": "build\\Artist api1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Artist api1.props",
+      "PackagePath": "buildMultiTargeting\\Artist api1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Artist api1.props",
+      "PackagePath": "buildTransitive\\Artist api1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
