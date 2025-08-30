@@ -1,0 +1,38 @@
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Artist api1.exe
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\appsettings.Development.json
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\appsettings.json
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Artist api1.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Artist api1.runtimeconfig.json
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Artist api1.pdb
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.Data.SqlClient.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.EntityFrameworkCore.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.Identity.Client.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.IdentityModel.Logging.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Microsoft.Win32.SystemEvents.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\System.Configuration.ConfigurationManager.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\System.Drawing.Common.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\System.Runtime.Caching.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\System.Security.Permissions.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\System.Windows.Extensions.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dzafa\OneDrive\Рабочий стол\Artist api1\out\Artist api1.deps.json

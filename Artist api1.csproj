@@ -7,6 +7,10 @@
     <RootNamespace>Artist_api1</RootNamespace>
   </PropertyGroup>
 
+ <RootNamespace>ArtistApi1</RootNamespace>
+    <AssemblyName>ArtistApi1</AssemblyName>
+  </PropertyGroup>
+
   <ItemGroup>
     <Folder Include="Models\" />
   </ItemGroup>

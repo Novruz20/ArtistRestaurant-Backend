@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+ENTRYPOINT ["dotnet", "ArtistApi1.dll"]
